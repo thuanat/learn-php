@@ -1,2 +1,1 @@
-user: thuanlv
-pass: 123@123aabc
+abc
